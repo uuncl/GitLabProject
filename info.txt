@@ -1,5 +1,0 @@
-
-- Full Name: Salwa Salman Al-Mutairi
-- Student ID: 452216517
-- Department: Programming and Applications
--Favorite Programming Language: SGL
